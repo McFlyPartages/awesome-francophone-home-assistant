@@ -1,2 +1,1 @@
-# awesome-francophone-home-assistant
-Awesome list Francophone autour de Home Assistant
+L'awesome List Francophone est disponible [en version web ici](https://awesome.hacf.fr)
