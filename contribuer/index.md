@@ -16,10 +16,10 @@ Cette liste est ouverte à tous. Y contribuer est simple: vous avez besoin uniqu
 Voici un guide pas à pas pour contribuer à cette liste:
 
 1. Rendez vous sur le [dépôt de la liste](https://github.com/hacf-fr/awesome-francophone-home-assistant) sur GitHub
-2. Cliquez sur le fichier `README.md`: <img width="1122" alt="liste des fichiers" src="https://user-images.githubusercontent.com/93244/89622528-7997b900-d893-11ea-8b03-a7439d9df303.png">
-3. Cliquez sur le bouton `edit`: <img width="1122" alt="Editer le fichier" src="https://user-images.githubusercontent.com/93244/89622823-ec089900-d893-11ea-997f-a3a6c403977a.png">
+2. Cliquez sur le fichier `README.md`: ![Fichier README](img/ficher_readme.png)
+3. Cliquez sur le bouton `edit`: ![Editer le fichier](img/github_edit.png)
 4. Vous pouvez éditer le contenu du fichier dans votre navigateur. Assurez vous de suivre les bonnes pratiques ci-dessus. Le fichier utilise le language GitHub Flavored Markdown avec une ([introduction pour les débutant](https://learnxinyminutes.com/docs/fr-fr/markdown-fr/) et la [spécification détaillée pour un usage expert](https://github.github.com/gfm/).
-5. Indiquez dans le formulaire de bas de page pourquoi vous proposez ces changements et cliquez sur "Propose file change": <img width="937" alt="Capture d’écran 2020-08-07 à 09 33 22" src="https://user-images.githubusercontent.com/93244/89623492-fb3c1680-d894-11ea-8d38-b98ac77ac67c.png">
+5. Indiquez dans le formulaire de bas de page pourquoi vous proposez ces changements et cliquez sur "Propose file change": ![Commenter les changements](img/propose_change.png)
 6. Envoyez votre Pull Request.
 7. Attendez une relecture et répondez aux éventuelles demandes de modification.
 8. Votre contribution est fusionnée si elle répond à toutes les exigences du projet.
