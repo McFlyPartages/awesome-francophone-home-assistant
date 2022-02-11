@@ -1,17 +1,9 @@
 ---
 title : Awesome Francophone Home Assistant - Archives
 ---
-> Ressources utiles mais obsolètes francophones au sujet de Home Assistant
+{{< alert "Ressources utiles mais obsolètes francophones au sujet de Home Assistant" warning >}}
 
-<!--lint ignore awesome-toc-->
-- [Tutos vidéos](#tutos-vidéos)
-- [Configurations](#configurations)
-- [Modules tiers utiles pour (ou par) des utilisateurs francophones](#modules-tiers-utiles-pour-ou-par-des-utilisateurs-francophones)
-  - [Cartes Personnalisées pour l'interface Lovelace (Lovelace Custom cards)](#cartes-personnalisées-pour-linterface-lovelace-lovelace-custom-cards)
-- [Discussions et entraides](#discussions-et-entraides)
-  - [Paradis Artificiels](#paradis-artificiels)
-
-
+{{< alert "Home Assistant evolunt tré vite, il est recommander de voir s'il n'y a pas une information plus recente avant de suivre une de ces sources" warning >}}
 ## Tutos vidéos
 
 - [Paradis Artificiels](https://www.youtube.com/channel/UCbCJtFizTFNf4waPWPFAqcA) - De nombreuses videos à propos de Home Asssitant et de ses addons. Attention dernière MAJ date de début 2019 !

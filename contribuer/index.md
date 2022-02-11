@@ -1,9 +1,10 @@
 ---
 title : Instructions pour contribuer
 ---
+################ A MODIFIER ###################################
 Veuillez noter que ce projet est liée à un [code de conduite des contributeurs](code-of-conduct.md).
 En participant à ce projet vous acceptez de respecter ses termes.
-
+#################################################################
 ## Modèle pour un lien dans la liste
 
 Utilisez le modèle : `[Nom_du_lien](url_du_lien) - Descriptif du lien.`
@@ -26,7 +27,7 @@ Voici un guide pas à pas pour contribuer à cette liste:
 Merci pour votre contribution.
 
 ## Pour tester la génération du site statique
-
+ ######################## A MODIFIER #####################################################################
 Cette Awesome list est utilisée pour générer un site web statique à l'aide de [Mkdocs](https://www.mkdocs.org/).
 Pour tester en local la génération vous avez besoin d'installer [nox](https://nox.thea.codes/en/stable/)
 au préalable.
